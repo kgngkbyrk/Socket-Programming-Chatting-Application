@@ -6,3 +6,5 @@ gcc -pthread -o client client.c  daha sonra ./client 4444
 
 
 ![2021-10-08 16_59_28-Window](https://user-images.githubusercontent.com/59416511/136570136-ac06bed6-00db-4e16-b407-deac88b9ae23.png)
+
+![2021-10-08 17_00_48-Window](https://user-images.githubusercontent.com/59416511/136570379-514d0504-9d6e-495e-ac38-474852cb7973.png)
